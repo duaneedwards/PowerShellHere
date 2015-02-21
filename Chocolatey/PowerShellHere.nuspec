@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PowerShellHere</id>
+    <title>PowerShell Here</title>
+    <version>0.0.1</version>
+    <authors>Duane Edwards</authors>
+    <owners>Duane Edwards</owners>
+    <summary>Adds a 'PowerShell Here' option to the right click menu of Windows Explorer</summary>
+    <description>Adds a 'PowerShell Here' option to the right click menu of Windows Explorer when right clicking folders, drives or the background of an explorer window</description>
+    <projectUrl>https://github.com/duaneedwards/PowershellHere</projectUrl>
+    <tags>powershell windows explorer right click menu</tags>
+    <copyright></copyright>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
