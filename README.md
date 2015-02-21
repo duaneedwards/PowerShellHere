@@ -1,5 +1,7 @@
 # PowerShellHere
-Chocolatey Package to setup "PowerShell Here" right click menu items for Windows Explorer
+Chocolatey Package to setup an "Open PowerShell Here" right click menu item for Windows Explorer.
+
+This will work on folder items, drives and even the background part of Windows Explorer.
 
 If using Chocolatey, you can install by running in a command prompt:
 
