@@ -7,8 +7,8 @@
     <version>0.0.3</version>
     <authors>Duane Edwards</authors>
     <owners>Duane Edwards</owners>
-    <summary>Adds an 'Open PowerShell Here' option to the right click menu of Windows Explorer</summary>
-    <description>Adds an 'Open PowerShell Here' option to the right click menu of Windows Explorer when right clicking folders, drives or the background of an explorer window</description>
+    <summary>Adds an 'Open PowerShell Here' option to the right click menu of Windows Explorer.</summary>
+    <description>Adds an 'Open PowerShell Here' option to the right click menu of Windows Explorer when right clicking folders, drives or the background of an explorer window.</description>
     <projectUrl>https://github.com/duaneedwards/PowershellHere</projectUrl>
     <tags>powershell windows explorer right click menu</tags>
     <copyright></copyright>
